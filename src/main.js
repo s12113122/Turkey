@@ -6,8 +6,14 @@ import router from './router'
 import VueFire from 'vuefire'
 import firebase from 'firebase/app'
 import 'firebase/firestore'
+import 'firebase/auth';
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
+import Vuex from 'vuex'
+import store from '@/store/index.js';
+require('lazy-vue');
+
+Vue.use(Vuex)
 Vue.use(VueFire)
 Vue.config.productionTip = false
 Vue.use(ElementUI)
@@ -24,11 +30,14 @@ Vue.use(ElementUI)
 // firebase.initializeApp(config);
 
 /* eslint-disable no-new */
-export const db = firebase.firestore()
+// export const db = firebase.firestore()
 new Vue({
   el: '#app',
   router,
-  components: { App },
+  store,
+  components: {
+    App
+  },
   template: '<App/>',
   render: h => h(App),
 })

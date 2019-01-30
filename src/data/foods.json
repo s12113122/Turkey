@@ -3,23 +3,23 @@
     "price": 30,
     "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f98cb60f7d07b9.png"
   }, {
-    "name": "漢堡1",
+    "name": "漢堡2",
     "price": 30,
     "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f98cb60f7d07b9.png"
   }, {
-    "name": "漢堡1",
+    "name": "漢堡3",
     "price": 30,
     "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f98cb60f7d07b9.png"
   }, {
-    "name": "漢堡1",
+    "name": "漢堡4",
     "price": 30,
     "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f98cb60f7d07b9.png"
   }, {
-    "name": "漢堡1",
+    "name": "漢堡5",
     "price": 30,
     "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f98cb60f7d07b9.png"
   }, {
-    "name": "漢堡1",
+    "name": "漢堡6",
     "price": 30,
     "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f98cb60f7d07b9.png"
   }, {
@@ -108,9 +108,5 @@
     "price": 30,
     "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f98cb60f7d07b9.png"
 
-  }, {
-    "name": "漢堡6",
-    "price": 25,
-    "imgUrl": "http://www.superqin.com.tw/upload/mwd/article/e368aa6bf1e04f8ca8f9cb60f7d07b9.png"
   }
 ]
