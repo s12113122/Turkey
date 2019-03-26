@@ -1,7 +1,7 @@
 <template>
   <el-aside class="aside">
     <div class="ttt">
-      還沒想到要幹嘛
+      還沒想到要幹嘛AAAA
       <div class="foot-statistical"><span><small>数量：</small>{{quantityTotal()}}</span> <span><small>金额：</small>{{priceTotal()}}元</span></div>
       <el-button type="success" icon="el-icon-check" size="mini" @click="Checkout()">結帳</el-button>
     </div>
